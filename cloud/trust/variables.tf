@@ -12,7 +12,7 @@ variable "tfc_hostname" {
 
 variable "tfc_organization_name" {
   type        = string
-  default     = "0xcaff"
+  default     = "voteagora"
   description = "The name of your Terraform Cloud organization"
 }
 
